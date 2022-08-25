@@ -1,8 +1,13 @@
-# <img src="./images/1m2m.png" width="100"> 
+<img src="./images/1m2m.png" width="100"  align="left"/> 
 
-* The purpose of creating this project; to enable mentees to find their mentors.
+# M2M App
+  <br>
+ 
+ The purpose of creating this project; to enable mentees to find their mentors.
 
-## Features:
+
+
+## Key Features:
 * Mentors-Mentees who are linked to each other are listed on the main page. Also most popular tags are listed on the main page.
 * Mentees can rate and comment on mentors.
 * Mentors are listed as Top Mentors on the homepage based on their scores. Scores are ranked according to the points given by the mentees.
@@ -25,7 +30,7 @@
 * Emulator Provider: Android Studio
 * API Test: Postman 
 
-## To run
+## How To Use
 
 • Clone this project your computer.
 
@@ -61,3 +66,6 @@
 <img src="./images/notification_page.png" width="200">
 <img src="./images/settings_page.png" width="200">
 <img src="./images/feedbak_page.png" width="200">
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
