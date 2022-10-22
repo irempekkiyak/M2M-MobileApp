@@ -62,7 +62,7 @@
 <img src="./images/main_page.png" width="200">
 <img src="./images/drawer_page.png" width="200">
 <img src="./images/mentor_page.png" width="200">
-<img src="./images/event_page.png" width="200">
+<img src="./images/events_page.png" width="200">
 <img src="./images/profile_page.png" width="200">
 <img src="./images/notification_page.png" width="200">
 <img src="./images/settings_page.png" width="200">
